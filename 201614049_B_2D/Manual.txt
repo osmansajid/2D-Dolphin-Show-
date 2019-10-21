@@ -1,0 +1,8 @@
+Dolphin Show
+
+1.Dolphin will keep swimming in the pool in a circle
+2.CLouds keep moving in the sky
+3.pressing 's' will make the dolphin stop after it comes in front of the pool
+  another 's' pressing will make the dolphin move again
+4.By mouse click the ball will move on the head of the dolphin and keep spinning
+  and another mouse click will drop the ball on the ground
